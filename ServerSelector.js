@@ -6,5 +6,5 @@
 // @description  1.0 Release
 // @author       𝗗𝗶𝗲𝗽𝗖𝗵𝗮𝘁 𝗧𝗲𝗮𝗺
 // @match        https://*diep.io/*
-// @require      https://diep.chat/serverselector
+// @require      https://diep.chat/ServerSelector
 // ==/UserScript==
